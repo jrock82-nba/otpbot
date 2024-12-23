@@ -1,4 +1,4 @@
-package main https://github.com/jrock82-nba/otpbot.git
+package main 
 
 import (
 	"fmt"
