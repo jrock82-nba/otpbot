@@ -1,4 +1,4 @@
-module https://github.com/jrock82-nbago/land-otpbot-api
+module https://github.com/jrock82-nba/goland-otpbot-api
 go 1.17
 
 require (
